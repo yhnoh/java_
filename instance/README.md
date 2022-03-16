@@ -5,7 +5,7 @@
 ### 1. obj instanceof class
 
 - `B_Obj instanceof A`는 **인스턴스화(new)한 B객체(하위객체, 자기 자신 객체)가 A클래스(상위클래스, 자기 자신 클래스)로 인스턴스화**가 가능하냐를 묻는 것
-
+:
 ```java
 public class InstanceOf {
 		public static class HighClass {
